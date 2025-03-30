@@ -1,4 +1,4 @@
-# A Mobile Application Focusing on Recycling Solutions
+## A Mobile Application Focusing on Recycling Solutions
 
 ## Overview
 Our project aims to enhance the recycling experience in New Zealand, especially for international newcomers. This app simplifies the recycling process by providing a user-friendly platform that guides users in properly disposing of their waste, and help them navigate through clothing recycling and donation locations in Auckland and latest recycling tips. Additionally, the app allows users to browse eco-friendly products.
