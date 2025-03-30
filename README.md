@@ -1,4 +1,4 @@
-# Recycling Assistant: A Mobile Application Focusing on Recycling Solutions
+# A Mobile Application Focusing on Recycling Solutions
 
 ## Overview
 Our project aims to enhance the recycling experience in New Zealand, especially for international newcomers. This app simplifies the recycling process by providing a user-friendly platform that guides users in properly disposing of their waste, and help them navigate through clothing recycling and donation locations in Auckland and latest recycling tips. Additionally, the app allows users to browse eco-friendly products.
@@ -168,7 +168,7 @@ For the convenience of interacting with the server, we deployed the server on AW
 - Git Workflow: We adopted the branch workflow. This approach helped us manage the development of new features without disturbing the main codebase. Each feature was developed in a separate branch and reviewed through pull requests before merging into the main.
 
 - Code Reviews: Pull requests were used to review all code changes. This practice ensured code quality and shared understanding of the codebase among team members.
-![alt text](image.png)
+![alt text](image-3.png)
 
 ### Task Management
 
