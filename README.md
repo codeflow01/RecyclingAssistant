@@ -185,6 +185,3 @@ For the convenience of interacting with the server, we deployed the server on AW
 - Commit Logs: Our commit logs reflect regular contributions from all team members. Each commit clearly describes the implemented changes, ensuring traceability and transparency.
 
 - Peer Reviews: Each piece of code was peer-reviewed, fostering knowledge sharing and collective code ownership.
-<br>
-<br>
-
