@@ -73,7 +73,7 @@ If everything is set up *correctly*, the application should appear in your *iOS 
 
 <b>iOS Mobile Device</b>: 
 
-https://github.com/UOA-CS732-SE750-Students-2024/project-group-happy-herons/assets/151484982/3efaff9b-286e-4da8-921d-a435fb027fab
+https://github.com/user-attachments/assets/7e54494b-7693-4460-aa5b-594f14a1f1dc
 
 <b>Android Emulator</b>: 
 
